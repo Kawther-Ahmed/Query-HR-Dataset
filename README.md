@@ -7,10 +7,9 @@
 
 
 - <h3> Used </h3>
+- Queries
 - Views 
-
 - Functions 
-
 - Stored Procedures 
 - Triggers 
 - Cursors 
