@@ -14,7 +14,7 @@
 - Stored Procedures 
 - Triggers 
 - Cursors 
-- Indexes
+- Indices
 
 
 
