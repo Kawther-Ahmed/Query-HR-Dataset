@@ -22,13 +22,13 @@
 
 
 - <h3> Used </h3>
-- Queries
-- Views 
-- Functions 
-- Stored Procedures 
-- Triggers 
-- Cursors 
-- Indices
+1. Queries
+2. Views 
+3. Functions 
+4. Stored Procedures 
+5. Triggers 
+6. Cursors 
+7. Indices
 
 
 
