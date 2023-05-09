@@ -4,6 +4,8 @@
 - <h3> SQL Diagram </h3>
 ![erd_sql](https://github.com/Kawther-Ahmed/Query-HR-Dataset/assets/60810647/527e6f70-124d-4acc-b2e4-9e2414d400d2) 
 
+<h3>-------------------------------------------------------------</h3>
+
 - <h3> Business Description  </h3>
 1. Each Employee has an ID, Name, Gender, Age, Department in which he works, hire date, Salary, Job role, Whether he works overtime or not, whether he travels for business or not, and whether he is still in the company or left.
 
